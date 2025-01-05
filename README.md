@@ -1,7 +1,7 @@
 # 1-YearPlan
 This repository contains my daily programming tasks and projects as I work through my 2025 learning roadmap. Each folder corresponds to a week and contains well-documented code, solutions, and mini-projects.
 
-Daily Programming Tasks Repository
+# Daily Programming Tasks Repository
 Welcome to my Daily Programming Tasks repository! This repository documents my day-by-day progress as I follow my 2025 learning roadmap for mastering programming, data structures, algorithms, and machine learning.
 
 📖 Overview
